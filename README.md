@@ -1,2 +1,1 @@
-# config
-config
+用于 GIT 练习
